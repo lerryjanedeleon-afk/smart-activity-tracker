@@ -1,0 +1,3 @@
+The Smart Daily Activity Tracker with Data Analysis and Visualization is a Python-based program designed to help users monitor and analyze their daily activities. The system allows users to input activities along with the number of hours spent on each task. The collected data is stored and processed to compute the total and average time spent.
+Additionally, the program provides simple suggestions based on the analyzed data to help improve productivity and maintain balance. It also includes a histogram feature that visually represents the distribution of activity hours, making it easier to understand patterns in time usage.
+This project applies concepts of input data modeling, output analysis, and data visualization using basic statistical methods.
