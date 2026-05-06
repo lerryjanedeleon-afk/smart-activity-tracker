@@ -83,12 +83,23 @@ python yourfilename.py
 ---
 
 ## 💡 Sample Dataset
-
-* Study – 3 hours
-* Exercise – 1 hour
-* Sleep – 8 hours
-* Gaming – 2 hours
-* Reading – 1.5 hours
+#Daily Activities 
+*Morning Exercise,1.25
+*Deep Work - Coding,4.5
+*Lunch Break,0.75
+*Workout,1.0
+*Family Time,3.5
+*Wash the Laundry,4.95
+*Wash the Dishes,1.5
+*Breakfast,0.5
+*Diner,0.5
+*Sweep and Mop the Floor,1.75
+*Play Video Games,4.0
+*Morning Exercise,1.25
+*Deep Work - Coding,4.5
+*Lunch Break,0.75
+*Workout,1.0
+*Family Time,3.5
 
 ---
 
